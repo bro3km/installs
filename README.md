@@ -3,8 +3,10 @@
 - Zen-Browser
 - Only Office
 - Spotify
-- VSCodium
+- VSCodium/VSCode
 - VM
+- WhatsApp
+
 
 ### Configs
 - Input Remapper
@@ -12,6 +14,9 @@
 - Pipewire
 - Screensharing
   
+## Lab
+- Docker
+- Tailscale
 
 ## Game
 - Swiftpoint Control Center
@@ -25,3 +30,4 @@
 - wxMaxima
 - IntelliJ
 - Zotero
+- SafeExam Browser
