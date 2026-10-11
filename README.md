@@ -1,5 +1,5 @@
 # My installs
-## Main
+### Main
 - Zen-Browser
 - Only Office
 - Spotify
@@ -8,17 +8,15 @@
 - WhatsApp
 
 
-### Configs
+#### Configs
 - Input Remapper
-- Git Login?
-- Pipewire
-- Screensharing
+- Git Login
   
-## Lab
+### Lab
 - Docker
 - Tailscale
 
-## Game
+### Game
 - Swiftpoint Control Center
 - Steam
 - Discord
@@ -26,8 +24,21 @@
 - Prism Launcher
 - Heroic Games Launcher
 
-## School
+### School
 - wxMaxima
 - IntelliJ
 - Zotero
 - SafeExam Browser
+
+## Commands
+**Arch Linux**:
+```bash
+./install-arch.sh       
+./install-arch.sh -y     # without prompts
+```
+
+**Windows** (via `winget`):
+```powershell
+.\install-windows.bat        # or: powershell -ExecutionPolicy Bypass -File .\install-windows.ps1
+.\install-windows.bat -y
+```
