@@ -1,4 +1,4 @@
-# My installs
+# My install scripts 
 ### Main
 - Zen-Browser
 - Only Office
